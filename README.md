@@ -1,8 +1,10 @@
+# Glue3D by GL00B
+
 **Glue3D** is a full game engine built *entirely* within the vanilla scratch programming language, uusing the pen extension only. It has many features, such as **textured rendering**, **model editing**, **bone keyframe animations**, **scripting**, **file management**, as well as **exporting a final build** of your game. 
 
 It's an ambitious project I've been working on to prove what's possible on scratch, while helping others learn more about 3D in an easy way. Glue3D is a project programmed completely by me including the layout, the mechanics, and everything else.
 
-### Getting Started
+## Getting Started
 
 The only thing you need to begin using Glue3D is the .sb3 file provided in this repository. Simply download it by selecting "Code" and "Download ZIP", or if you have git installed, you can use the following
 
@@ -12,7 +14,7 @@ git clone https://github.com/GL00B/GLUE3D.git
 
 Now that you have your copy, it's time to read the documentation :).
 
-### Documentation
+## Documentation
 
 > [!CAUTION]
 > It is super important to read the documentation. Beta tests have shown that people are truly clueless without it. If you plan to actually make something with this engine, you should really read this, even if just briefly.
