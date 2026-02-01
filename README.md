@@ -26,7 +26,7 @@ Ready to start building? Follow these steps:
 
 1.  **Download:** Get the `Glue3D 1.0.sb3` file from the [repository here](https://github.com/GL00B/GLUE3D/blob/main/Glue3D%201.0.sb3).
 2.  **Import:** Open [Scratch](https://scratch.mit.edu/projects/editor/), click on `File` > `Load from your computer`, and select the file.
-3.  **Optimize:** While Glue3D is 100% vanilla compatible, **[TurboWarp](https://turbowarp.org/) is highly recommended** for the best performance and higher frame rates.
+3.  **Optimize:** While Glue3D is 100% vanilla Scratch compatible, **[TurboWarp](https://turbowarp.org/) is highly recommended** for the best performance and higher frame rates.
 4.  **Learn:** We strongly recommend reading the **[Official Documentation](https://gl00b.github.io/GLUE3D/)** to understand how to navigate the engine and start creating your first project.
 
 ---
