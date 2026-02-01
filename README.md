@@ -66,7 +66,7 @@ Glue3D is a proprietary engine created by GL00B. Please adhere to the following 
 While the engine logic was programmed entirely by me, this project was made possible by the contributions of these talented individuals:
 
 * **3D Modeling & Pipeline:** **Llwyd (@dnduality)** — All engine models and OBJ optimization.
-* **3D Cat Model:** **@GarnetonScratch** (Optimized by Llwyd).
+* **3D Cat Model:** **@GarnetonScratch** (Optimized by Llwyd for Glue3D).
 * **Web Development:** Official website [glue3d.net](https://glue3d.net/) created by **@QuantumBaller (@vdigeeter)** and **@deniskincses**.
 * **Assets:** UI inspired by **MacOS X**; Sound design blended from **Windows XP, Longhorn, 7, and PS2**.
 
