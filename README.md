@@ -55,6 +55,6 @@ I'd like to thank many people:
 | tobsterz | lex | juisert | jayondisco |
 | cyber | cotufa |  |  |
 
-These names are people who strongly supported this project through it's development.
+These names are people who strongly supported this project through its development.
 
 Finally, I'd like to thank the Glue3D community as a whole, which includes you, and any user of this engine!
